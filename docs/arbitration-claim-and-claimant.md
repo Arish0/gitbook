@@ -7,7 +7,8 @@
 
 An **Arbitration Claim** is a formal listing created by a **seller** on the MineX platform. It contains verified information about a mining project that is either under dispute, undergoing legal clarification, or available for structured funding opportunities. The arbitration claim process ensures that each project is transparently reviewed, securely handled, and made accessible only to **verified funders**.
 
-Each claim typically includes:\
+**Each claim typically includes:**
+
 **Arbitration details:**
 
 * Claim Name

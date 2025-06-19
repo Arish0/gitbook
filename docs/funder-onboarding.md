@@ -6,13 +6,15 @@ description: >-
 
 # Funder-Onboarding
 
-**Overview**\
+**Overview**
+
 Funder Onboarding is the initial process by which potential investors (funders) register and gain access to view and interact with arbitration claims on the MineX platform. This ensures that only verified and NDA-compliant funders can access confidential project details, maintaining a secure and trustworthy environment for claimants and funders.
 
 **Steps in the Onboarding Process**
 
-1. **Registration**   \
-   Funders visit the Funder Registration page([https://staging.theminexchange.com/funder-onboarding](https://staging.theminexchange.com/funder-onboarding))
+1.  #### **Registration**
+
+    Funders visit the Funder Registration page ([https://staging.theminexchange.com/funder-onboarding](https://staging.theminexchange.com/funder-onboarding))
 
 **Required information includes:**
 
@@ -21,45 +23,59 @@ Funder Onboarding is the initial process by which potential investors (funders) 
 * Funder Representative Email
 * Funder Company Website
 * Funder Company In-House NDA Agreement\
-  \
-  **Optional Information:**
+
+
+**Optional Information:**
+
 * Funder Company Website
 * Funder Company Logo
 
-&#x20;    **Account Information:**
+**Account Information:**
 
 * Account Username
 * Account Password
 * Account Username
 * Reconfirm Password\
-  \
-  2\. **Email**
-* **Registration Confirmation**\
-  Upon submission, the platform generates a confirmation mail with the funder's login credentials.
-* **Onboarding Confirmation**  \
-  &#x20;\-  After registration, the funder receives a Confirmation of Onboarding email.\
-  &#x20;\-  Company details as registered\
-  &#x20;\-  A signed copy or acknowledgement of the Non-Disclosure Agreement (NDA)\
 
-* **Email OTP Verification**  \
-  \- For added security, an OTP (One-Time Password) is sent to the registered email when the funder    attempts to access any arbitration claim detail.
 
-&#x20;      \- Funders must enter the OTP to proceed and view claim information.
+2\. **Email**
 
-&#x20;      \- This helps ensure identity verification and secure access.
+&#x20; \
+**Registration Confirmation**
 
-3. **Access to Arbitration Claims**   \
-   &#x20; \- After successful OTP verification:
+Upon submission, the platform generates a confirmation email with the funder's login credentials.
 
-&#x20;        \- Funders can browse through view project in the platform to view claims.
+***
 
-&#x20;        \- They can use search filters (e.g., commodity, region, claim name) to refine search results.
+#### **Onboarding Confirmation**
 
-&#x20;        \- Each claim contains detailed project insights.
+* After registration, the funder receives a **Confirmation of Onboarding** email.
+* The email includes:
+  * Company details as registered
+  * A signed copy or acknowledgement of the Non-Disclosure Agreement (NDA)
 
-4. **Enquiry Submission**   \
-   &#x20; \- If a funder is interested in a particular claim:
+***
 
-&#x20;        \- They can submit an enquiry directly via the platform.
+#### **Email OTP Verification**
 
-&#x20;        \- The enquiry is forwarded to the claimant.
+* For added security, an OTP (One-Time Password) is sent to the registered email when the funder attempts to access any arbitration claim detail.
+* Funders must enter the OTP to proceed and view claim information.
+* This ensures identity verification and secure access.
+
+***
+
+#### **Access to Arbitration Claims**
+
+* After successful OTP verification:
+  * Funders can browse the platform to view arbitration claims
+  * They can apply filters such as **commodity**, **region**, or **claim name** to refine search results
+  * Each claim provides detailed project insights
+
+***
+
+#### **Enquiry Submission**
+
+* If a funder is interested in a particular claim:
+  * They can submit an enquiry directly via the platform
+  * The enquiry is then forwarded to the respective claimant
+
