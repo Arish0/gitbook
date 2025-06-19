@@ -22,7 +22,7 @@ Each claim typically includes:\
 * Intension
 * Summary of Claim
 * Infrastructure Images
-* Facility Range(10000)
+* Facility Range123
 * Name of Disputed Asset\
 
 
