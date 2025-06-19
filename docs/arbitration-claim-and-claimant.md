@@ -1,8 +1,7 @@
 # Arbitration claim and claimant
 
 \
-**Arbitration Claim:**\
-
+**Arbitration Claim:**\\
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,14 +21,10 @@ Each claim typically includes:\
 * Intension
 * Summary of Claim
 * Infrastructure Images
-<<<<<<< HEAD
 * Facility Range
-=======
 * Facility Range123
->>>>>>> c0859ad51002fa284f44950125fa67547af146d2
-* Name of Disputed Asset\
+* Name of Disputed Asset
 * KST Agencies
-
 
 **Claim Information**
 
