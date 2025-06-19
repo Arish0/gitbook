@@ -22,8 +22,9 @@ Each claim typically includes:\
 * Intension
 * Summary of Claim
 * Infrastructure Images
-* Facility Range(10000)
+* Facility Range
 * Name of Disputed Asset\
+* KST Agencies
 
 
 **Claim Information**
