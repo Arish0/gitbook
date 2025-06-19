@@ -1,8 +1,13 @@
 # Arbitration claim and claimant
 
+<<<<<<< HEAD
 
 **Arbitration Claim:**
 
+=======
+\
+**Arbitration Claim:**
+>>>>>>> 20590f894f6e80e3468adc392c924eedff4fcc9f
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,10 +29,15 @@ An **Arbitration Claim** is a formal listing created by a **seller** on the Mine
 * Summary of Claim
 * Infrastructure Images
 * Facility Range
+<<<<<<< HEAD
 * Facility Range
 * Name of Disputed Asset
 
-
+=======
+* Facility Range123
+* Name of Disputed Asset
+* KST Agencies
+>>>>>>> 20590f894f6e80e3468adc392c924eedff4fcc9f
 
 **Claim Information**
 
