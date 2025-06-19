@@ -6,11 +6,13 @@ coverY: 0
 
 # Theminexchange
 
-**The Minexchange is the world’s largest database of transactable mining assets.**\
-&#x20;   We help buyers, sellers, and agents connect and trade easily in a clear and open global marketplace. Minexchange makes it easier for mining projects to find better ways to complete deals.\
+**The Minexchange is the world’s largest database of transactable mining assets.**
+
+We help buyers, sellers, and agents connect and trade easily in a clear and open global marketplace. Minexchange makes it easier for mining projects to find better ways to complete deals.\
 \
-&#x20;**Arbitration Claim Overview:**\
-&#x20;  The MineX Platform is designed to securely facilitate the arbitration claim process, allowing only verified funders to access, view, and engage with listed claims. The platform ensures confidentiality and targeted visibility, maintaining the integrity of both claimants and funders throughout the arbitration journey.\
+**Arbitration Claim Overview**
+
+The MineX Platform is designed to securely facilitate the arbitration claim process, allowing only verified funders to access, view, and engage with listed claims. The platform ensures confidentiality and targeted visibility, maintaining the integrity of both claimants and funders throughout the arbitration journey.\
 \
 **Funder Registration**
 
