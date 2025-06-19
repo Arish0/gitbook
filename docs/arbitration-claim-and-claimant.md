@@ -1,10 +1,6 @@
 # Arbitration claim and claimant
 
-<<<<<<< HEAD
-
-=======
 \
->>>>>>> 9180aec9eac8097cdf47d7b2341be25537507fc2
 **Arbitration Claim:**
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
@@ -26,18 +22,11 @@ Each claim typically includes:\
 * Summary of Claim
 * Infrastructure Images
 * Facility Range
-<<<<<<< HEAD
-* Facility Range
-* Name of Disputed Asset
-* Facility Range123
-* Name of Disputed Asset
-=======
 * Facility Range123
 * Name of Disputed Asset
 * KST Agencies
->>>>>>> 9180aec9eac8097cdf47d7b2341be25537507fc2
 
-#### **Claim Information**
+**Claim Information**
 
 * Comapny/Claim Status
 * Information to be hidden
@@ -47,7 +36,7 @@ Once a claim is submitted by the seller, it is first displayed under the **"Pend
 
 ***
 
-#### **Claimant**
+**Claimant**
 
 A **Claimant** refers to the **seller** who owns or is legally authorized to represent the mining project and list an arbitration claim on the platform. Only sellers are allowed to initiate and submit claims. Claimants must be registered users and have passed the platform’s verification process and should convert to seller to be eligible to list a claim.
 
