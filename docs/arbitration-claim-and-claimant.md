@@ -1,20 +1,13 @@
 # Arbitration claim and claimant
 
-<<<<<<< HEAD
-
-**Arbitration Claim:**
-
-=======
 \
 **Arbitration Claim:**
->>>>>>> 20590f894f6e80e3468adc392c924eedff4fcc9f
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 An **Arbitration Claim** is a formal listing created by a **seller** on the MineX platform. It contains verified information about a mining project that is either under dispute, undergoing legal clarification, or available for structured funding opportunities. The arbitration claim process ensures that each project is transparently reviewed, securely handled, and made accessible only to **verified funders**.
 
-**Each claim typically includes:**
-
+Each claim typically includes:\
 **Arbitration details:**
 
 * Claim Name
@@ -29,15 +22,9 @@ An **Arbitration Claim** is a formal listing created by a **seller** on the Mine
 * Summary of Claim
 * Infrastructure Images
 * Facility Range
-<<<<<<< HEAD
-* Facility Range
-* Name of Disputed Asset
-
-=======
 * Facility Range123
 * Name of Disputed Asset
 * KST Agencies
->>>>>>> 20590f894f6e80e3468adc392c924eedff4fcc9f
 
 **Claim Information**
 
